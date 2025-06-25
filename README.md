@@ -38,7 +38,7 @@ Whether you're looking to explore Data Science, Art & Design, Business Strategy,
 
 | Home Page | Course List | Instructor Page |
 |-----------|-------------|-----------------|
-| ![Home](https://github.com/sakibsadri/Virtual-Learn-Space/blob/main/P-1.jpg) | ![Courses]([images/courses.png](https://github.com/sakibsadri/Virtual-Learn-Space/blob/main/P-4.jpg)) | ! (https://github.com/sakibsadri/Virtual-Learn-Space/blob/main/P-7.jpg)) |
+| ![Home](https://github.com/sakibsadri/Virtual-Learn-Space/blob/main/P-1.jpg) | ![Courses]((https://github.com/sakibsadri/Virtual-Learn-Space/blob/main/P-4.jpg)) | (https://github.com/sakibsadri/Virtual-Learn-Space/blob/main/P-7.jpg)) |
 
 | Events Page | Testimonials | Blog Section |
 |-------------|--------------|---------------|
